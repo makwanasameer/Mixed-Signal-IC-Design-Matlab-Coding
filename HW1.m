@@ -1,0 +1,18 @@
+a = 1;
+disp(a);
+b = 2;
+disp(b);
+c = a+b;
+disp(c);
+d = cos(a);
+disp(d);
+t=[1 2 3 4 5];
+disp(t);
+t = 1:5;
+disp(t);
+t=0:.01:1;
+disp(t);
+t=0:.01:1;
+disp(t);
+y = sin(2*pi*t);
+plot(t,y);
